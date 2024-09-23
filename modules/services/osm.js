@@ -41,7 +41,7 @@ var _changeset = {};
 
 var _deferred = new Set();
 var _connectionID = 1;
-var _tileZoom = 16;
+var _tileZoom = 9;
 var _noteZoom = 12;
 var _rateLimitError;
 var _userChangesets;

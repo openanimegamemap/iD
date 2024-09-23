@@ -13,8 +13,8 @@ const nsiCdnUrl = ENV__ID_NSI_CDN_URL
 // api urls and settings
 const defaultOsmApiConnections = {
   live: {
-    url: 'https://www.openstreetmap.org',
-    apiUrl: 'https://api.openstreetmap.org',
+    url: 'https://oagm.foreverealize.me',
+    apiUrl: 'https://oagm.foreverealize.me',
     client_id: '0tmNTmd0Jo1dQp4AUmMBLtGiD9YpMuXzHefitcuVStc'
   },
   dev: {
